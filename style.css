@@ -437,6 +437,12 @@ img {
   height: 72px;
   transform: rotate(31deg);
 }
+.get-touch .cmn-btn{
+    background-color: var(--lightgray);
+}
+.get-touch .cmn-btn:hover{
+    background-color: var(--violet);
+}
 .get-touch a {
   display: inline-block;
   text-decoration: none;
