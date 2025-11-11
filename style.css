@@ -358,7 +358,7 @@ img {
 }
 /* testimonials */
 .testimonials {
-  padding: 60px 0;
+  padding: 80px 0;
 }
 
 .testimonials .mySwiper {
@@ -422,7 +422,7 @@ img {
   padding: 15px 25px;
   /* max-width: 945px; */
   margin: 0 auto;
-  top: 91.2%;
+  top: 87.5%;
   left: 27%;
   align-items: center;
 }
@@ -444,9 +444,13 @@ img {
 }
 .footer {
   background: var(--navyblue);
-  padding: 30px;
+  padding: 70px;
 }
-
+.footerlogo{
+    max-width:190px ;
+    min-height: 159px;
+    padding: 20px;
+}
 .footer .row {
   display: flex;
   flex-wrap: wrap;
@@ -509,7 +513,7 @@ img {
 
 .telegram {
   position: absolute;
-  right: 23%;
+  right: 22%;
   width: 20px;
   height: 20px;
 }
